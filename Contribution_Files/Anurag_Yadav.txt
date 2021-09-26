@@ -1,0 +1,14 @@
+********* About Git Branching *********
+
+A Git branch is essentially an independent line of development. You can take advantage of branching when working on new features or bug fixes because it isolates your work from that of other team members.
+
+To create a branch:
+>>> git branch branch_name
+
+To checkout to another branch:
+>>> git checkout branch_name
+
+
+What is HEAD?
+HEAD is used to represent the current snapshot of a branch. 
+For a new repository, Git will by default point HEAD to the master branch.
