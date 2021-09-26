@@ -1,0 +1,35 @@
+-What is GIT?
+1)Git is an open-source distributed version control system. 
+2)It is designed to handle minor to major projects with high speed and efficiency. 
+3)It is developed to co-ordinate the work among the developers.
+
+-Some remarkable features of Git are as follows: 
+1)Open Source Git is an open-source tool. 
+  It is released under the GPL(General Public License) license.
+2)Scalable Git is scalable, which means when the number of users increases, the Git can easily handle such situations.
+3)Distributed One of Git's great features is that it is distributed. 
+
+-BENIFITS OF GIT?
+1)Saves Time: Git is lightning fast technology. Each command takes only a few seconds to execute so we can save a lot of 
+  time as compared to login to a GitHub account and find out its features.
+2)Offline Working: One of the most important benefits of Git is that it supports offline working. If we are facing internet
+  connectivity issues, it will not affect our work. In Git, we can do almost everything locally. Comparatively, other CVS
+  like SVN is limited and prefer the connection with the central repository.
+3)Undo Mistakes: One additional benefit of Git is we can Undo mistakes. Sometimes the undo can be a savior option for us. 
+  Git provides the undo option for almost everything.
+4)Track the Changes: Git facilitates with some exciting features such as Diff, Log, and Status, which allows us to track 
+  changes so we can check the status, compare our files or branches.
+
+-Why Git?
+ We have discussed many features and benefits of Git that demonstrate the undoubtedly Git as the leading version control system
+
+-COMMANDS OF GIT:
+
+1)git init ---->Initialize a local Git repository
+2)git clone ---->Clone private repository
+3)git status---->Check status
+4)git branch---->List of branches (the asterisk denotes the current branch)
+5)git branch [branch name]---->	Create a new branch
+6)git branch -d [branch name]---->Delete a branch
+7)git checkout -b [branch name]---->Create a new branch and switch to it
+8)git checkout -b [branch name] origin/[branch name]---->Clone a remote branch and switch to it
