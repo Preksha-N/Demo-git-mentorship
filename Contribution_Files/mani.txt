@@ -1,0 +1,19 @@
+***************Some important git commands**********
+BRANCH & MERGE:Isolating work in branches, changing context, and integrating changes.
+1)Git branch
+ List your branches. A * will appear next to the currently active branch
+2)Git branch [branch-name]
+ Create a new branch at the current commit
+3)Git checkout
+ Switch to another branch and check it out into your working directory
+4)Git merge [branch]
+ Merge the specified branch’s history into the current one
+5)Git log :Show all commits in the current branch’s history
+
+SETUP:Configuring user information used across all local repositories
+1)Git config –global user.name “[firstname lastname]”
+ Set a name that is identifiable for credit when review version history
+2)Git config –global user.email “[valid-email]”
+ Set an email address that will be associated with each history marker
+3)Git config –global color.ui auto
+ Set automatic command line coloring for Git for easy reviewing
