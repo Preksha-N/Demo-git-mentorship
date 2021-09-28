@@ -1,0 +1,42 @@
+
+#WHAT IS GitHub?
+GitHub is a Git repository hosting service that provides a web-based graphical interface. It is the world’s largest coding community. 
+Putting a code or a project into GitHub brings it increased, widespread exposure. Programmers can find source codes in many different languages and use 
+the command-line interface, Git, to make and keep track of any changes.
+In short GitHub provides a platform that helps every team member work together on a project from any location while facilitating collaboration
+
+
+#FEATURES OF GitHub
+1. Easy Project Management
+GitHub is a place where project managers and developers come together to coordinate, track, and update their work so that projects are transparent and stay on 
+schedule.
+2. Increased Safety With Packages
+Packages can be published privately, within the team, or publicly to the open-source community. The packages can be used or reused by downloading them from 
+GitHub.
+3. Effective Team Management
+GitHub helps all the team members stay on the same page and organized. Moderation tools like Issue and Pull Request Locking help the team to focus on the 
+code.
+4. Improved Code Writing
+Pull requests help the organizations to review, develop, and propose new code. Team members can discuss any implementations and proposals through these 
+before changing the source code.
+5. Increased Code Safety
+GitHub uses dedicated tools to identify and analyze vulnerabilities to the code that other tools tend to miss. Development teams everywhere work together to 
+secure the software supply chain, from start to finish.
+6. Easy Code Hosting
+All the code and documentation are in one place. There are millions of repositories on GitHub, and each repository has its own tools to help you host and release 
+code.
+
+
+#ALTERNATIVES/COMPETETORS OF GitHub
+The market provides many alternatives and competitors to GitHub. Some of these are mentioned below:
+1. Bitbucket
+2. Google Cloud Source Repositories
+3. Phabricator
+4. GitLab
+5. Gogs
+6. Gitea
+7. SourceForge
+8. Apache Allura
+9. Launchpad
+10.AWS CodeCommit
+Out of all these GitHub is the widely used/popular Version Control System because of its user friendly environment.
